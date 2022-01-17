@@ -42,7 +42,7 @@ data = [title,fit,today1]
 
 
 # Creating a df or data frame in pandas
-df = pd.read_csv(r"C:\Users\yashg\Desktop\Programming\Python\Amazon_dataset.csv")
+df = pd.read_csv(r"C:\Users\) #location to file.csv
 print(df)
 
 
